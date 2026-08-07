@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anis 👋</h1>
+<h1 align="center">Hi, I'm Anis</h1>
 
 <p align="center">
 Computer Science student at EPITA
@@ -8,11 +8,9 @@ Computer Science student at EPITA
 
 ## About Me
 
-I'm a Computer Science student at EPITA interested in software engineering, backend development and cloud technologies.
+I'm a Computer Science student at EPITA interested in software engineering, backend development, cloud technologies, and building complete applications from API to deployment.
 
-I enjoy building personal projects to improve my understanding of application architecture, REST APIs, databases and modern web development.
-
-This GitHub mainly contains projects developed during my studies as well as personal projects.
+This GitHub contains personal and academic projects focused on practical software development, system design, databases, and modern web technologies.
 
 ---
 
@@ -23,7 +21,6 @@ This GitHub mainly contains projects developed during my studies as well as pers
 - C#
 - Java
 - Python
-- C
 - C++
 - TypeScript
 - JavaScript
@@ -48,37 +45,42 @@ This GitHub mainly contains projects developed during my studies as well as pers
 
 ---
 
-## Main Project
+## Featured Project
 
 ### JobTrackr
 
-A full-stack application built to manage and track job applications.
+A full-stack application for managing and tracking job applications.
 
-**Tech stack**
+**Stack**
 
 - Angular 20
 - ASP.NET Core 10
 - PostgreSQL
 - Entity Framework Core
 - JWT Authentication
+- Docker
+- Vercel
+- Render
+- Neon
 
-**Repositories**
-
-- https://github.com/anislahouani/jobtrackr-web
-- https://github.com/anislahouani/jobtrackr-api
-
-**Live demo**
+**Live Demo**
 
 https://jobtrackr-web-navy.vercel.app
 
----
+**Repositories**
+
+Frontend  
+https://github.com/anislahouani/jobtrackr-web
+
+Backend  
+https://github.com/anislahouani/jobtrackr-api
 
 ---
 
 ## Contact
 
-- 📍 Paris, France
-- 🎓 EPITA – Computer Science
-- 💼 LinkedIn: https://www.linkedin.com/in/anis-lahouani/
+LinkedIn  
+https://www.linkedin.com/in/anis-lahouani/
 
-Thanks for visiting my profile !
+GitHub  
+https://github.com/anislahouani

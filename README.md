@@ -2,7 +2,7 @@
 
 Computer Science student at EPITA, interested in software engineering, backend development, distributed systems, cloud technologies, and building complete applications from design to production.
 
-I enjoy working on projects that combine solid backend engineering with real-world problems — from full-stack SaaS applications to simulation and optimization systems.
+I enjoy working on projects that combine solid backend engineering with real-world problems, from full-stack SaaS applications to simulation and optimization systems.
 
 ---
 

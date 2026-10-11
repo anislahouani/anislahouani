@@ -55,11 +55,11 @@ Built with a separated Angular / ASP.NET Core architecture, JWT authentication, 
 - Persistent PostgreSQL storage
 - Full-stack cloud deployment
 - Dockerized backend
-- Automated frontend and backend build checks with GitHub Actions
+- Automated backend tests and GitHub Actions CI
 
 **Stack**
 
-`Angular 22` · `TypeScript 6` · `ASP.NET Core 10` · `C#` · `PostgreSQL` · `Entity Framework Core` · `JWT` · `Docker` · `GitHub Actions` · `Vercel` · `Render` · `Neon`
+`Angular 22` · `TypeScript 6` · `ASP.NET Core 10` · `C#` · `PostgreSQL` · `Entity Framework Core` · `JWT` · `xUnit` · `Docker` · `GitHub Actions` · `Vercel` · `Render` · `Neon`
 
 **Live Demo**
 
@@ -96,6 +96,10 @@ https://github.com/anislahouani/jobtrackr-api
 ### Engineering & Deployment
 
 `Docker` · `Docker Compose` · `GitHub Actions` · `Vercel` · `Render` · `Neon`
+
+### Testing
+
+`xUnit` · `Pytest`
 
 ### Tools
 

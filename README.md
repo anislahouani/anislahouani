@@ -55,10 +55,11 @@ Built with a separated Angular / ASP.NET Core architecture, JWT authentication, 
 - Persistent PostgreSQL storage
 - Full-stack cloud deployment
 - Dockerized backend
+- Automated frontend and backend build checks with GitHub Actions
 
 **Stack**
 
-`Angular 20` · `TypeScript` · `ASP.NET Core 10` · `C#` · `PostgreSQL` · `Entity Framework Core` · `JWT` · `Docker` · `Vercel` · `Render` · `Neon`
+`Angular 22` · `TypeScript 6` · `ASP.NET Core 10` · `C#` · `PostgreSQL` · `Entity Framework Core` · `JWT` · `Docker` · `GitHub Actions` · `Vercel` · `Render` · `Neon`
 
 **Live Demo**
 

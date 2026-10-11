@@ -1,8 +1,8 @@
 # Hi, I'm Anis 👋
 
-Computer Science student at EPITA, interested in software engineering, backend development, distributed systems, cloud technologies, and building complete applications from design to production.
+Engineering student in Computer Science at EPITA and .NET / Angular Software Developer Intern at TF1.
 
-I enjoy working on projects that combine solid backend engineering with real-world problems, from full-stack SaaS applications to simulation and optimization systems.
+I build production-oriented software with a focus on backend engineering, full-stack applications, APIs, data, and deployment. My current work and personal projects combine C# / .NET, Angular, Python, PostgreSQL, Docker, CI/CD, and cloud-hosted services.
 
 ---
 
@@ -45,7 +45,7 @@ https://github.com/anislahouani/flowforge
 
 A full-stack application for managing and tracking job applications through a centralized dashboard.
 
-Built with a separated frontend/backend architecture, authentication, persistent storage, containerization, and cloud deployment.
+Built with a separated Angular / ASP.NET Core architecture, JWT authentication, PostgreSQL persistence, containerization, and cloud deployment.
 
 **Key features**
 
@@ -58,7 +58,7 @@ Built with a separated frontend/backend architecture, authentication, persistent
 
 **Stack**
 
-`Angular 20` · `ASP.NET Core 10` · `C#` · `PostgreSQL` · `Entity Framework Core` · `JWT` · `Docker` · `Vercel` · `Render` · `Neon`
+`Angular 20` · `TypeScript` · `ASP.NET Core 10` · `C#` · `PostgreSQL` · `Entity Framework Core` · `JWT` · `Docker` · `Vercel` · `Render` · `Neon`
 
 **Live Demo**
 
@@ -92,7 +92,7 @@ https://github.com/anislahouani/jobtrackr-api
 
 `PostgreSQL` · `SQL Server`
 
-### DevOps & Cloud
+### Engineering & Deployment
 
 `Docker` · `Docker Compose` · `GitHub Actions` · `Vercel` · `Render` · `Neon`
 
@@ -104,9 +104,8 @@ https://github.com/anislahouani/jobtrackr-api
 
 ## 🎓 Education
 
-**EPITA — École pour l'informatique et les techniques avancées**
-
-Computer Science
+**EPITA — École pour l'informatique et les techniques avancées**  
+Engineering Degree in Computer Science, expected 2028
 
 ---
 
